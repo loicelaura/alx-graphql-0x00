@@ -1,0 +1,12 @@
+{
+  "data": {
+    "character": {
+      "id": "4",
+      "name": "jacky marion",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "gender": "female"
+    }
+  }
+}
