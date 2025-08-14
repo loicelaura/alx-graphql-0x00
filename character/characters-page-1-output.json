@@ -1,0 +1,21 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "1",
+          "name": "Sharlyne Beatrice",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "id": "2",
+          "name": "Nicholas Otieno",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        }
+       
+      ]
+    }
+  }
+}

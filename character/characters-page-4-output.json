@@ -1,0 +1,21 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "4",
+          "name": "Jacky Marion",
+          "status": "Alive",
+          "image": "https://jackymarionapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "id": "5",
+          "name": "Shantel Beth",
+          "status": "Alive",
+          "image": "https://shantelbethapi.com/api/character/avatar/2.jpeg"
+        }
+       
+      ]
+    }
+  }
+}
